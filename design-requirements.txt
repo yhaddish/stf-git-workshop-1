@@ -1,9 +1,8 @@
 Design Ideas:
 * A form with input fields
-* 5 input fields
+* 4 input fields
 * The fields are
 ** First Name
 ** Last Name
 ** Phone Number
 ** Email
-** Country
